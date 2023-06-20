@@ -1,0 +1,34 @@
+{
+   "soccer stars":[
+    {
+        "id": "1",
+        "name": "Jude Bellingham",
+        "position": "midfielder",
+        "team": "Real Madrid"  
+    },
+    {
+        "id": "2",
+        "name": "Christopher Nunku",
+        "position": "forward",
+        "team": "Chelsea"  
+    },
+    {
+        "id": "3",
+        "name": "Jamal Musiala",
+        "position": "winger",
+        "team": "Bayern Munich"
+    },
+    {
+        "id": "4",
+        "name": "Mohammed Salah",
+        "position": "forward",
+        "team": "Liverpool"
+    },
+    {
+        "id": "5",
+        "name": "Harvey Elliot",
+        "position": "midfielder",
+        "team": "Liverpool"
+    }
+   ]
+}
