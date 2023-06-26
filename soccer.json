@@ -4,31 +4,36 @@
         "id": "1",
         "name": "Jude Bellingham",
         "position": "midfielder",
-        "team": "Real Madrid"  
+        "team": "Real Madrid",
+        "image":"https://i.postimg.cc/nLQg0wj3/GOAL-Blank-WEB-Facebook-3.webp"  
     },
     {
         "id": "2",
         "name": "Christopher Nunku",
         "position": "forward",
-        "team": "Chelsea"  
+        "team": "Chelsea",
+        "image":"https://i.postimg.cc/pVYNw707/Fz-Dls-P7-Xg-AEiyr-Z.jpg"  
     },
     {
         "id": "3",
         "name": "Jamal Musiala",
         "position": "winger",
-        "team": "Bayern Munich"
+        "team": "Bayern Munich",
+        "image":"https://i.postimg.cc/7YmF6zrn/6a7109ec3c6494e96dcc2bbf2e8e65a11aa9445b.webp"
     },
     {
         "id": "4",
-        "name": "Mohammed Salah",
+        "name": "Bakayoko Saka",
         "position": "forward",
-        "team": "Liverpool"
+        "team": "Arsenal",
+        "image":"https://i.postimg.cc/FRyqQdxc/Saka-c77b4f9.jpg"
     },
     {
         "id": "5",
         "name": "Harvey Elliot",
         "position": "midfielder",
-        "team": "Liverpool"
+        "team": "Liverpool",
+        "image": "https://i.postimg.cc/Cx29CV1Z/Harvey-Elliott-Liverpool-Napoli-2022-23.webpz"
     }
    ]
 }
